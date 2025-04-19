@@ -12,6 +12,21 @@ This organization hosts unified and device-specific sources for:
 - 🧩 Vendor Blobs  
 - ⚙️ Common Trees & Tools
 
+## 📁 Repo Structure
+
+ --**DEVICE**
+- android_device_{brand}_{codename}
+- android_device_oneplus_sm8450-common
+
+ --**KERNEL**
+- android_kernel_{brand}_{codename}
+- android_kernel_oneplus_sm8450-devicetrees
+- android_kernel_oneplus_sm8450-modules
+
+ --**VENDOR**
+- android_vendor_{brand}_{codename}
+- android_vendor_oneplus_sm8450-common
+ 
 ## 🤝 Contributions
 
 Pull requests are welcome!  
