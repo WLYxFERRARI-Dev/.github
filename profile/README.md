@@ -39,6 +39,11 @@ For bugs, collaboration, or questions:
 - [DEVICE-MAIN GROUP](https://t.me/Machad3xROMS)
 - [COD3X-BUILDs](https://t.me/COD3XBUILDs)
 
+## 😁 Credits 
+
+Credits to all the **developers** who contributed to the open source code.  
+Our goal is to support clean, collaborative, and open Android development for wly & ferrari.
+
 ## ⚠️ Disclaimer
 
 This project is for **Testing and Development** purposes only. We are not responsible for any misuse or damage caused by flashing custom ROMs or kernels.
